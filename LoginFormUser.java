@@ -1,7 +1,7 @@
 import javax.swing.JFrame;
 
 class LoginFormUser {
-	public static int main(String[] args){
+	public static float main(String[] args){
 
 		LoginForm g = new LoginForm();
 
